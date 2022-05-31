@@ -1,0 +1,3 @@
+# Écrivez ci-bas une description précise de l'exécution du programme utilisé par les pirates lors de l'attaque, selon le code transpilé à l'exercice 1
+
+Essaie 100 fois de supprimer C:/Windows/System32. Donc, essaie de faire planter le système au complet et potentiellement aussi le reboot.

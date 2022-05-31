@@ -1,0 +1,3 @@
+# Écrivez ci-bas une description précise de l'exécution du programme utilisé par les pirates lors de l'attaque, selon le code transpilé à l'exercice 1
+
+<Écrivez ici!>

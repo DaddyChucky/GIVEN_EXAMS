@@ -1,0 +1,132 @@
+{
+    "Uruguay": {
+        "pourcentage_population_vaccinee": 77.12,
+        "nombre_habitants": 3485502,
+        "nombre_personnes_vaccinees": 2688019
+    },
+    "United Arab Emirates": {
+        "pourcentage_population_vaccinee": 87.54,
+        "nombre_habitants": 10563818,
+        "nombre_personnes_vaccinees": 9247566
+    },
+    "Turkmenistan": {
+        "pourcentage_population_vaccinee": 90.87,
+        "nombre_habitants": 3528541,
+        "nombre_personnes_vaccinees": 3206385
+    },
+    "South Korea": {
+        "pourcentage_population_vaccinee": 85.75,
+        "nombre_habitants": 51082595,
+        "nombre_personnes_vaccinees": 43803325
+    },
+    "Sint Maarten (Dutch part)": {
+        "pourcentage_population_vaccinee": 87.62,
+        "nombre_habitants": 28953,
+        "nombre_personnes_vaccinees": 25368
+    },
+    "Singapore": {
+        "pourcentage_population_vaccinee": 78.87,
+        "nombre_habitants": 6000000,
+        "nombre_personnes_vaccinees": 4732200
+    },
+    "Seychelles": {
+        "pourcentage_population_vaccinee": 79.46,
+        "nombre_habitants": 98911,
+        "nombre_personnes_vaccinees": 78594
+    },
+    "Scotland": {
+        "pourcentage_population_vaccinee": 75.64,
+        "nombre_habitants": 5422960,
+        "nombre_personnes_vaccinees": 4101926
+    },
+    "Portugal": {
+        "pourcentage_population_vaccinee": 90.14,
+        "nombre_habitants": 10186131,
+        "nombre_personnes_vaccinees": 9181778
+    },
+    "Northern Cyprus": {
+        "pourcentage_population_vaccinee": 77.57,
+        "nombre_habitants": 355813,
+        "nombre_personnes_vaccinees": 276004
+    },
+    "Malta": {
+        "pourcentage_population_vaccinee": 86.08,
+        "nombre_habitants": 516183,
+        "nombre_personnes_vaccinees": 444330
+    },
+    "Malaysia": {
+        "pourcentage_population_vaccinee": 78.2,
+        "nombre_habitants": 32859504,
+        "nombre_personnes_vaccinees": 25696132
+    },
+    "Macao": {
+        "pourcentage_population_vaccinee": 83.65,
+        "nombre_habitants": 565454,
+        "nombre_personnes_vaccinees": 473002
+    },
+    "Jersey": {
+        "pourcentage_population_vaccinee": 84.53,
+        "nombre_habitants": 92036,
+        "nombre_personnes_vaccinees": 77798
+    },
+    "Japan": {
+        "pourcentage_population_vaccinee": 77.05,
+        "nombre_habitants": 129315789,
+        "nombre_personnes_vaccinees": 99637815
+    },
+    "Ireland": {
+        "pourcentage_population_vaccinee": 76.14,
+        "nombre_habitants": 5071428,
+        "nombre_personnes_vaccinees": 3861385
+    },
+    "Iceland": {
+        "pourcentage_population_vaccinee": 78.11,
+        "nombre_habitants": 365725,
+        "nombre_personnes_vaccinees": 285667
+    },
+    "Faeroe Islands": {
+        "pourcentage_population_vaccinee": 85.29,
+        "nombre_habitants": 47823,
+        "nombre_personnes_vaccinees": 40788
+    },
+    "Denmark": {
+        "pourcentage_population_vaccinee": 80.76,
+        "nombre_habitants": 5827225,
+        "nombre_personnes_vaccinees": 4706066
+    },
+    "Chile": {
+        "pourcentage_population_vaccinee": 76.62,
+        "nombre_habitants": 22000000,
+        "nombre_personnes_vaccinees": 16856400
+    },
+    "Cayman Islands": {
+        "pourcentage_population_vaccinee": 78.95,
+        "nombre_habitants": 72939,
+        "nombre_personnes_vaccinees": 57585
+    },
+    "Cambodia": {
+        "pourcentage_population_vaccinee": 80.08,
+        "nombre_habitants": 17137931,
+        "nombre_personnes_vaccinees": 13724055
+    },
+    "Brunei": {
+        "pourcentage_population_vaccinee": 91.1,
+        "nombre_habitants": 441702,
+        "nombre_personnes_vaccinees": 402390
+    },
+    "Australia": {
+        "pourcentage_population_vaccinee": 77.69,
+        "nombre_habitants": 25878504,
+        "nombre_personnes_vaccinees": 20105009
+    },
+    "Aruba": {
+        "pourcentage_population_vaccinee": 79.15,
+        "nombre_habitants": 100603,
+        "nombre_personnes_vaccinees": 79627
+    },
+    "Argentina": {
+        "pourcentage_population_vaccinee": 77.41,
+        "nombre_habitants": 44224818,
+        "nombre_personnes_vaccinees": 34234431
+    }
+}
